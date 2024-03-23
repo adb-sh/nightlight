@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "nightlight")(type "KiCad")(uri "${KIPRJMOD}/nightlight.kicad_sym")(options "")(descr ""))
+)
