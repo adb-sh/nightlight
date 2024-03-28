@@ -1,2 +1,4 @@
 nightlight-backups
 *.lck
+jlcpcb/gerber
+jlcpcb/production_files
