@@ -1,12 +1,12 @@
 # nightlight
 
-a little wled 5x5 matrix
+a little wled 5x5 led matrix
 
 - esp8266
 - 5x5 ws2812b leds
 
-![front side with esp8266](./nightlight-front.png)
-![front side with ws2812b leds](./nightlight-back.png)
+![front side with esp-12f](./photo-front.png)
+![back side with ws2812b leds](./photo-back.png)
 
 ## contribute
 
